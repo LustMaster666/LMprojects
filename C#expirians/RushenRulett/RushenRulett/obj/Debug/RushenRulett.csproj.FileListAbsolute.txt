@@ -1,0 +1,7 @@
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\bin\Debug\RushenRulett.exe.config
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\bin\Debug\RushenRulett.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\bin\Debug\RushenRulett.pdb
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\obj\Debug\RushenRulett.csproj.AssemblyReference.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\obj\Debug\RushenRulett.csproj.CoreCompileInputs.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\obj\Debug\RushenRulett.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\RushenRulett\RushenRulett\obj\Debug\RushenRulett.pdb

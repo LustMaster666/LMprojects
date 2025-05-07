@@ -1,0 +1,14 @@
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\bin\Debug\KazicK.exe.config
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\bin\Debug\KazicK.exe
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\bin\Debug\KazicK.pdb
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\obj\Debug\KazicK.csproj.AssemblyReference.cache
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\obj\Debug\KazicK.csproj.CoreCompileInputs.cache
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\obj\Debug\KazicK.exe
+C:\Users\niksp\Desktop\c# pr\KazicK\KazicK\obj\Debug\KazicK.pdb
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\bin\Debug\KazicK.exe.config
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\bin\Debug\KazicK.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\bin\Debug\KazicK.pdb
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\obj\Debug\KazicK.csproj.AssemblyReference.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\obj\Debug\KazicK.csproj.CoreCompileInputs.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\obj\Debug\KazicK.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\KazicK\KazicK\obj\Debug\KazicK.pdb

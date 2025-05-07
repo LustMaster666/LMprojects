@@ -1,0 +1,7 @@
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\bin\Debug\triple_fruts.exe.config
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\bin\Debug\triple_fruts.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\bin\Debug\triple_fruts.pdb
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\obj\Debug\triple_fruts.csproj.AssemblyReference.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\obj\Debug\triple_fruts.csproj.CoreCompileInputs.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\obj\Debug\triple_fruts.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\triple_fruts\triple_fruts\obj\Debug\triple_fruts.pdb

@@ -1,0 +1,7 @@
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\bin\Debug\randchoice.exe.config
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\bin\Debug\randchoice.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\bin\Debug\randchoice.pdb
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\obj\Debug\randchoice.csproj.AssemblyReference.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\obj\Debug\randchoice.csproj.CoreCompileInputs.cache
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\obj\Debug\randchoice.exe
+C:\Users\niksp\Desktop\c# pr\paraDiceNG\randchoice\randchoice\obj\Debug\randchoice.pdb
